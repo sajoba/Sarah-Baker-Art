@@ -1,0 +1,65 @@
+header {
+  margin-bottom : 80px;
+}
+
+ul {
+  padding         : 0;
+  list-style-type : none;
+}
+
+li {
+  font-style : normal;
+}
+
+body:last-child {
+  margin-bottom : 2%;
+}
+
+.card {
+  position   : relative;
+  width      : 70vw;
+  text-align : center;
+}
+
+.bio {
+  padding    : 2%;
+  text-align : justify;
+}
+
+.card * {
+  font-family : 'OpenSans',
+                sans-serif;
+}
+
+.sarahFoto {
+  display       : block;
+  width         : 150px;
+  height        : 150px;
+  margin        : auto;
+  margin-top    : -80px;
+  border        : 4px solid white;
+  border-radius : 50%;
+}
+
+@media only screen
+       and (max-width : 768px) {
+  .logo {
+    display : none;
+  }
+
+  header h1 {
+    margin-left : 0;
+    font-size   : 10vw;
+  }
+
+  header {
+    height : auto;
+  }
+
+  .card {
+    box-sizing   : border-box;
+    width        : 100vw;
+    margin-right : 0px;
+    margin-left  : 0px;
+  }
+}
