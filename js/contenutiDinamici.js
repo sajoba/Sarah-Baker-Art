@@ -58,7 +58,7 @@ var slideshow = [
     url: 'url(img/slideshow/resina_majah.jpg)'
   },
   {
-    url: 'url(img/slideshow/elephant2.jpg)'
+    url: 'url(img/slideshow/elephant.jpg)'
   }
 ];
 
