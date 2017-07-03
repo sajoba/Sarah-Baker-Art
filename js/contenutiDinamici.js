@@ -2,43 +2,47 @@ var immagini = [
   // lista di tutte le immagini da mostrare nella galleria
   {
     url: 'url(img/galleria/ceramica1.jpg)',
-    categoria: 'Ceramica'
+    categoria: 'Ceramic Sculpture'
   },
   {
     url: 'url(img/galleria/ceramica2.jpg)',
-    categoria: 'Ceramica'
+    categoria: 'Ceramic Sculpture'
   },
   {
     url: 'url(img/galleria/ceramica3.jpg)',
-    categoria: 'Ceramica'
+    categoria: 'Ceramic Sculpture'
   },
   {
     url: 'url(img/galleria/ceramica4.jpg)',
-    categoria: 'Ceramica'
+    categoria: 'Ceramic Sculpture'
   },
   {
     url: 'url(img/galleria/ceramica5.jpg)',
-    categoria: 'Ceramica'
+    categoria: 'Ceramic Sculpture'
   },
   {
     url: 'url(img/galleria/mall1.jpg)',
-    categoria: 'Shopping Mall'
+    categoria: 'Shopping Mall 1991'
   },
   {
     url: 'url(img/galleria/mall2.jpg)',
-    categoria: 'Shopping Mall'
+    categoria: 'Shopping Mall 1991'
   },
   {
     url: 'url(img/galleria/mall3.jpg)',
-    categoria: 'Shopping Mall'
+    categoria: 'Shopping Mall 1991'
   },
   {
     url: 'url(img/galleria/mall4.jpg)',
-    categoria: 'Shopping Mall'
+    categoria: 'Shopping Mall 1991'
   },
   {
     url: 'url(img/galleria/mall8.jpg)',
-    categoria: 'Shopping Mall'
+    categoria: 'Shopping Mall 1991'
+  },
+    {
+    url: 'url(img/galleria/Tate.jpg)',
+    categoria: 'Tate Gallery 1992'
   },
   {
     url: 'url(img/galleria/resina2.jpg)',
