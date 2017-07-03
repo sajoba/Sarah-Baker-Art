@@ -49,19 +49,24 @@ var immagini = [
     categoria: 'Resina'
   },
   {
-    url: 'url(img/galleria/BA.jpg)',
-    categoria: 'Trade shows'
-  },
-  {
     url: 'url(img/galleria/BA2.jpg)',
     categoria: 'Trade shows'
   },
+  {
+    url: 'url(img/galleria/BA.jpg)',
+    categoria: 'Trade shows'
+  },
+  
   {
     url: 'url(img/galleria/jag.jpg)',
     categoria: 'Trade shows'
   },
   {
     url: 'url(img/galleria/BP1.jpg)',
+    categoria: 'Trade shows'
+  },
+    {
+    url: 'url(img/galleria/bundes.jpg)',
     categoria: 'Trade shows'
   },
   {
