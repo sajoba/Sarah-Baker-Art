@@ -22,23 +22,23 @@ var immagini = [
   },
   {
     url: 'url(img/galleria/mall1.jpg)',
-    categoria: 'Shopping Mall 1991'
+    categoria: 'Bargate Shopping Mall 1991'
   },
   {
     url: 'url(img/galleria/mall2.jpg)',
-    categoria: 'Shopping Mall 1991'
+    categoria: 'Bargate Shopping Mall 1991'
   },
   {
     url: 'url(img/galleria/mall3.jpg)',
-    categoria: 'Shopping Mall 1991'
+    categoria: 'Bargate Shopping Mall 1991'
   },
   {
     url: 'url(img/galleria/mall4.jpg)',
-    categoria: 'Shopping Mall 1991'
+    categoria: 'Shopping Mall Nativity(circa 1986)'
   },
   {
     url: 'url(img/galleria/mall8.jpg)',
-    categoria: 'Shopping Mall 1991'
+    categoria: 'Bargate Shopping Mall 1991'
   },
     {
     url: 'url(img/galleria/Tate.jpg)',
