@@ -45,6 +45,10 @@ var immagini = [
     categoria: 'Resina'
   },
   {
+    url: 'url(img/galleria/BA.jpg)',
+    categoria: 'Trade shows'
+  },
+  {
     url: 'url(img/galleria/resina1.jpg)',
     categoria: 'Resina'
   }
@@ -96,7 +100,7 @@ var blogpost = [
 ];
 
 var pagine = [
-  'A Study of the working methods of  Leonardo da Vinci in the context of the 1473 “Val’d’Arno” landscape drawing and Madonna di Piazza;Leonardo’s 1473 landscape sketch is considered here from the viewpoint of an artist. Initially visually analysing the sketch, in order to establish how Leonardo would have created it, and subsequently using both visual and documentary evidence to attempt to prove that Leonardo visited a particular place in central Tuscany in his formative years. The apparent connection of this place also with two annunciation paintings, leads to re-consider the level of Leonardo’s involvement in Verrocchio’s Pistoia altarpiece.;The 1473 drawing;In his maturity Leonardo da Vinci usually carried a small notebook tied to his waist, always ready to note down and store anything of interest that he saw, wherever he was (1).;',
+  'A Study of the working methods of  Leonardo da Vinci in the context of the 1473 “Val’d’Arno” landscape drawing and Madonna di Piazza.;Leonardo’s 1473 landscape sketch is considered here from the viewpoint of an artist. Initially visually analysing the sketch, in order to establish how Leonardo would have created it, and subsequently using both visual and documentary evidence to attempt to prove that Leonardo visited a particular place in central Tuscany in his formative years. The apparent connection of this place also with two annunciation paintings, leads to re-consider the level of Leonardo’s involvement in Verrocchio’s Pistoia altarpiece.;The 1473 drawing;In his maturity Leonardo da Vinci usually carried a small notebook tied to his waist, always ready to note down and store anything of interest that he saw, wherever he was (1).;',
 
   'The results of his observations filled thousands of pages and often concerned recurring themes: such as those regarding mothers and sons, many examples of which can be easily found amongst his sketches as well as seen in some of the few paintings he left behind(2). Yet we do not know who of any of the women or small children that he drew together were.;The mountains, rocks, hills and plains that Leonardo painted disappearing into the distance and forming the background in his paintings almost certainly also derive from observation and sketches, done directly in front of the subject, but these painted hills and valleys have remained just as anonymous as his lovely young women with their playful babies.;The first dated landscape study by Leonardo da Vinci that we have today  was signed on the 5th August 1473 (3).',
 
